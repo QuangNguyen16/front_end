@@ -1,0 +1,139 @@
+.baner{
+    background: url(../img/mt-0617-home-bg-1.jpg) ;
+    color: aliceblue !important;
+    text-align: left;
+}
+.mono
+{
+    background: url(../img/mt-0617-home-bg-5.jpg);
+    color: white;
+    text-align: center;
+    padding: 400px;
+}
+.navbar-brand{
+    color: black !important;
+}
+.title{
+    width: 5000px;
+    height: 500px;
+    padding-left: 100px;
+    padding-top: 10%;
+   
+}
+.font1{
+    
+    font-style: italic;
+    font-size: larger;
+    
+}
+.font2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.title .h2{
+    margin-bottom: 0.5rem;
+     /*font-size: 100px;
+    
+   font-weight: 400px;*/
+
+}
+
+.fa{
+    background: url(../img/mt-0617-home-bg-4.jpg);
+    padding: 400px; 
+    font-size: 22px;
+    text-align: center;
+
+}
+
+.nen1{
+    color: #f8f9fa !important ;
+}
+.show>.nav-link {
+    color: #f8f9fa;
+}
+.show>.nav-item {
+    color: #f8f9fa;
+}
+.om{
+    text-align: center;
+}
+.om h3{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    
+}
+.ad{
+    background: url(../img/mt-0617-home-bg-4.jpg);
+    color: #f8f9fa;
+    padding: 50px;
+    text-align: center;
+    line-height: 1;
+}
+.learnmore{
+    color: blueviolet;
+}
+
+
+
+
+.hov:hover{
+    background: white;
+}
+.hov{
+    background: blueviolet;
+    color: #f8f9fa;
+    border-radius: 2px;
+    
+}
+.dong3{
+    text-align: center;
+    padding-bottom: 90px;
+    padding-top: 90px;  
+}
+.dong3 p{
+    font-family: 'Hind', sans-serif;
+}
+.abc{
+    text-align: center;
+    padding: 100px;
+}
+.bc{
+    text-align: center;
+    background: whitesmoke;
+
+}
+.dong3 h5{
+    font-size: 42px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.kt{
+    width: 20px;
+    display: inline-block;
+}
+.kht{
+    padding-bottom: 200px;
+    width: 60px;
+    display: inline-block;
+}
+.f1{
+    padding-top: 125px;
+    background:#384144;
+    padding-bottom: 125px;
+    padding: 100px;
+    
+}
+.f1 a{
+    color: #f8f9fa !important;
+}
+.f2{
+background: black;
+padding: 15px;
+}
+.mau{
+    color: #f8f9fa
+}
+.mau1{
+    color: blueviolet;
+}
